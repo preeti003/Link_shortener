@@ -1,7 +1,6 @@
 # URL Shortener
 
-![URL Shortener Logo](![image](https://github.com/preeti003/Link_shortener/assets/84238610/8ecfdcb2-d9a8-4079-8f59-421acce32115)
-)
+![URL Shortener Logo](Screenshot 2023-07-30 at 7.42.11 PM.png)
 
 ## Overview
 
