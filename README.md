@@ -1,6 +1,6 @@
 # URL Shortener
 
-![URL Shortener Logo](Screenshot 2023-07-30 at 7.42.11 PM.png)
+![URL Shortener Logo](logo.png)
 
 ## Overview
 
